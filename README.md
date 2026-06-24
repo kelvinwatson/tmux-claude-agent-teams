@@ -30,11 +30,6 @@ source ~/.zshrc
 ct
 ```
 
-**Android project (`andr_core`):**
-```bash
-act
-```
-
 Both scripts prompt for:
 1. Task description
 2. Number of agents
