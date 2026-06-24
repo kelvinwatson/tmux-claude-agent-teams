@@ -1,0 +1,14 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Common shell-script outputs/temp files
+*.log
+*.out
+*.err
+*.tmp
+*.bak
+.env
